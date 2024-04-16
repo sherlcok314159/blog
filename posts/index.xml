@@ -31,7 +31,7 @@
       <pubDate>Fri, 14 Jul 2023 18:02:00 +0800</pubDate>
       
       <guid>https://yunpengtai.top/posts/infonce/</guid>
-      <description>区分真实样本 前面的讲的NCE系列方法是为了去估计配分函数，接下来要介绍的 InfoNCE 虽然带个 NCE，但这个的目的不是要预估配分函数，他是直接采用自归一</description>
+      <description>区分真实样本 前面的两种是为了去估计配分函数，接下来要介绍的 InfoNCE 虽然带个 NCE，但这个的目的不是要预估配分函数，他是直接像上篇应用 NCE 的方法一样，</description>
     </item>
     
     <item>
