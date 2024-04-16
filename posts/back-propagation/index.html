@@ -35,7 +35,8 @@ f(h) = \tanh(h) = \frac{e^h - e^{-h}}{e^h + e^{-h}} \tag{5.6}
 $$</p><p>A useful feature of this activation is that its derivative can be expressed in a particularly simple form:</p><p>$$
 f&rsquo;(h) = 1 - f(h)^2 \tag{5.7}
 $$</p><p>The error function can be mean squared errors:</p><p>$$
-E(\mathbf{w}) = \frac{1}{2} \sum\limits_{k}(y_{k}- \hat{y}_k)^2 \tag{5.8}<br>$$</p><p>If we want to update the parameters, we need first to compute the partial derivative of \(E(\mathbf{w})\) with respect to them.</p><p>$$
+E(\mathbf{w}) = \frac{1}{2} \sum\limits_{k}(y_{k}- \hat{y}_k)^2 \tag{5.8}
+$$</p><p>If we want to update the parameters, we need first to compute the partial derivative of \(E(\mathbf{w})\) with respect to them.</p><p>$$
 \frac{\partial E(\mathbf{w})}{\partial w_{kj}^{(2)}} = \frac{\partial E(\mathbf{w})}{\partial y_{k}} \frac{\partial y_k}{\partial w_{kj}^{(2)}} = (y_{k}- \hat{y}_k)z_{j} \tag{5.9}
 $$</p><p>$$
 \begin{align}
