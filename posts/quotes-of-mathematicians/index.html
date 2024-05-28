@@ -13,13 +13,14 @@ To not know maths is a severe limitation to understanding the world. — Richard
       el: '#waline',
       lang: 'en-US',
       reaction: true,
-      theme: 'dark',
       avatar: "mp",
       serverURL: 'https:\/\/example.yunpengtai.top\/',
+      AUTHOR_EMAIL: '2111783652@qq.com',
       texRenderer: (blockMode, tex) =>
           katex.renderToString(tex, {
             displayMode: blockMode,
             throwOnError: false,
+            output: 'html'
       }),
       emoji: [
         'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs',
