@@ -332,40 +332,7 @@
 </span></span><span class=line><span class=cl>    <span class=n>mp</span><span class=o>.</span><span class=n>spawn</span><span class=p>(</span><span class=n>main</span><span class=p>,</span> <span class=n>nprocs</span><span class=o>=</span><span class=n>TOTAL_GPUS</span><span class=p>,</span> <span class=n>args</span><span class=o>=</span><span class=p>(</span><span class=n>arg1</span><span class=p>,</span> <span class=o>...</span><span class=p>))</span>
 </span></span></code></pre></div><p>这种运行的时候就跟正常的python文件一致：</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>python main.py
 </span></span></code></pre></div><h3 id=优缺点-1>优缺点<a hidden class=anchor aria-hidden=true href=#优缺点-1>#</a></h3><ul><li><strong>优点</strong>： 相比于DP而言，不需要反复创建和销毁线程；Ring-AllReduce算法提高通信效率；模型同步方便</li><li><strong>缺点</strong>：操作起来可能有些复杂，一般可满足需求的可先试试看DataParallel</li></ul></div><blockquote class=quote-copyright>Author: Yunpengtai<p>Link: https://yunpengtai.top/posts/diving-in-distributed-training/<p>License: CC BY-NC-SA 4.0. You must provide a link to the source.</blockquote><footer class=post-footer><ul class=post-tags><li><a href=https://yunpengtai.top/tags/multi-gpus/>Multi-gpus</a></li><li><a href=https://yunpengtai.top/tags/dataparallel/>DataParallel</a></li><li><a href=https://yunpengtai.top/tags/distributed-training/>Distributed Training</a></li></ul><nav class=paginav><a class=prev href=https://yunpengtai.top/posts/hello-world/><span class=title>« Prev</span><br><span>新的主题</span></a>
-<a class=next href=https://yunpengtai.top/posts/back-propagation/><span class=title>Next »</span><br><span>Going Deeper into Back-propagation</span></a></nav></footer><!doctype html><head><link rel=stylesheet href=https://unpkg.com/@waline/client@v2/dist/waline.css></head><body><div id=waline></div><script type=module>
-    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-
-    init({
-      el: '#waline',
-      lang: 'en',
-      reaction: true,
-      theme: 'dark',
-      avatar: "mp",
-      serverURL: 'https:\/\/example.yunpengtai.top\/',
-      emoji: [
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs',
-        'https://unpkg.com/@waline/emojis@1.1.0/tw-emoji',
-        'https://unpkg.com/@waline/emojis@1.1.0/bmoji'
-    ],
-      reaction:[
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatheart.png',
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatrainbow.png',
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatattentionreverse.png',
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/ablobcatheartbroken.png',
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatopenmouth.png',
-        'https://gcore.jsdelivr.net/gh/norevi/waline-blobcatemojis@1.0/blobs/blobcatcoffee.png'
-      ],
-      locale: {
-        placeholder: '可以匿名评论哦~ QQ邮箱可自动获取头像 Anything to say? It can be anonymous.',
-        level0: '潜水',
-        level1: '冒泡',
-        level2: '摸鱼',
-        level3: '话痨',
-        level4: '话满天',
-        level5: '龙王',
-      }
-  });
-  </script></body></html></article></main><footer class=footer><span>&copy; 2024 <a href=https://yunpengtai.top>Tai's Blog</a></span>
+<a class=next href=https://yunpengtai.top/posts/back-propagation/><span class=title>Next »</span><br><span>Going Deeper into Back-propagation</span></a></nav></footer><link href=https://comment.yunpengtai.top/dist/Artalk.css rel=stylesheet><script src=https://comment.yunpengtai.top/dist/Artalk.js></script><div id=Comments></div><script>Artalk.init({el:"#Comments",pageKey:"/post/1",pageTitle:"",server:"https://comment.yunpengtai.top",site:"Tai's Blog"})</script></article></main><footer class=footer><span>&copy; 2024 <a href=https://yunpengtai.top>Tai's Blog</a></span>
 <span>Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a> &
         <a href=https://github.com/sherlcok314159/MyPaperMod rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top aria-label="go to top" title="Go to Top (Alt + G)" class=top-link id=top-link accesskey=g><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentcolor"><path d="M12 6H0l6-6z"/></svg></a><script>(function(){var e,t,n,s=document.getElementsByTagName("code");for(n=0;n<s.length;){if(t=s[n],t.parentNode.tagName!=="PRE"&&t.childElementCount===0&&(e=t.textContent,/^\$[^$]/.test(e)&&/[^$]\$$/.test(e)&&(e=e.replace(/^\$/,"\\(").replace(/\$$/,"\\)"),t.textContent=e),/^\\\((.|\s)+\\\)$/.test(e)||/^\\\[(.|\s)+\\\]$/.test(e)||/^\$(.|\s)+\$$/.test(e)||/^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(e))){t.outerHTML=t.innerHTML;continue}n++}})()</script><script>(function(e,t){var s=document,o="script",n=s.createElement(o),i=s.getElementsByTagName(o)[0];n.src=e,t&&n.addEventListener("load",function(e){t(e)}),i.parentNode.insertBefore(n,i)})("//cdn.bootcss.com/pangu/4.0.7/pangu.min.js",function(){pangu.spacingPage()})</script><script>let menu=document.getElementById("menu");menu&&(menu.scrollLeft=localStorage.getItem("menu-scroll-position"),menu.onscroll=function(){localStorage.setItem("menu-scroll-position",menu.scrollLeft)}),document.querySelectorAll('a[href^="#"]').forEach(e=>{e.addEventListener("click",function(e){e.preventDefault();var t=this.getAttribute("href").substr(1);window.matchMedia("(prefers-reduced-motion: reduce)").matches?document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView():document.querySelector(`[id='${decodeURIComponent(t)}']`).scrollIntoView({behavior:"smooth"}),t==="top"?history.replaceState(null,null," "):history.pushState(null,null,`#${t}`)})})</script><script>var mybutton=document.getElementById("top-link");window.onscroll=function(){document.body.scrollTop>800||document.documentElement.scrollTop>800?(mybutton.style.visibility="visible",mybutton.style.opacity="1"):(mybutton.style.visibility="hidden",mybutton.style.opacity="0")}</script><script>document.querySelectorAll("pre > code").forEach(e=>{const n=e.parentNode.parentNode,t=document.createElement("button");t.classList.add("copy-code"),t.innerHTML="copy";function s(){t.innerHTML="copied!",setTimeout(()=>{t.innerHTML="copy"},2e3)}t.addEventListener("click",t=>{if("clipboard"in navigator){navigator.clipboard.writeText(e.textContent),s();return}const n=document.createRange();n.selectNodeContents(e);const o=window.getSelection();o.removeAllRanges(),o.addRange(n);try{document.execCommand("copy"),s()}catch{}o.removeRange(n)}),n.classList.contains("highlight")?n.appendChild(t):n.parentNode.firstChild==n||(e.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName=="TABLE"?e.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(t):e.parentNode.appendChild(t))})</script></body></html>
