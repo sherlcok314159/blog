@@ -14,10 +14,10 @@
     <lastBuildDate>Wed, 07 Sep 2022 18:10:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/back-propagation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Going Deeper into Back-Propagation</title>
-      <link>http://yunpengtai.top/posts/deep_back_propagation/</link>
+      <link>http://yunpengtai.top/posts/deep-back-propagation/</link>
       <pubDate>Wed, 07 Sep 2022 18:10:00 +0800</pubDate>
       
-      <guid>http://yunpengtai.top/posts/deep_back_propagation/</guid>
+      <guid>http://yunpengtai.top/posts/deep-back-propagation/</guid>
       <description>1. Gradient descent optimization Gradient-based methods make use of the gradient information to adjust the parameters. Among them, gradient descent can be the simplest. Gradient descent makes the parameters to walk a small step in the direction of the negative gradient.
 $$ \boldsymbol{w}^{\tau + 1} = \boldsymbol{w}^{\tau} - \eta \nabla_{\boldsymbol{w}^{\tau}} E \tag{1.1} $$
 where $\eta, \tau, E$ label learning rate ($\eta &amp;gt; 0$), the iteration step and the loss function. Wait!</description>

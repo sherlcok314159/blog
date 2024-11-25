@@ -14,10 +14,10 @@
     <lastBuildDate>Fri, 24 May 2024 18:10:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/prompt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to prompt LLM better?</title>
-      <link>http://yunpengtai.top/posts/how_to_prompt_llms/</link>
+      <link>http://yunpengtai.top/posts/better-prompt/</link>
       <pubDate>Fri, 24 May 2024 18:10:00 +0800</pubDate>
       
-      <guid>http://yunpengtai.top/posts/how_to_prompt_llms/</guid>
+      <guid>http://yunpengtai.top/posts/better-prompt/</guid>
       <description>prompt 在人与 LLM 的互动中起着关键的作用，好的 prompt 可以让 LLM「思考」更多一些，那么如何更好地理解 prompt 的组成，以及设计 prompt 来完成想要的任务便成了主要的目标</description>
     </item>
     

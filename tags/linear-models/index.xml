@@ -14,10 +14,10 @@
     <lastBuildDate>Fri, 17 Feb 2023 14:10:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/linear-models/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generalized Linear Models</title>
-      <link>http://yunpengtai.top/posts/generalized_linear_models/</link>
+      <link>http://yunpengtai.top/posts/generalized-linear-models/</link>
       <pubDate>Fri, 17 Feb 2023 14:10:00 +0800</pubDate>
       
-      <guid>http://yunpengtai.top/posts/generalized_linear_models/</guid>
+      <guid>http://yunpengtai.top/posts/generalized-linear-models/</guid>
       <description>定义 若一个分布能够以下述方式进行表示，则称之为指数族（ Exponential Family）的一员 $$ \begin{equation} p(y; \eta ) = b(y)\exp(\eta^{\mathbf{T}}T(y) - a(\eta )) \end{equation} $$ 其中$\eta$被称为分布的自然参数（n</description>
     </item>
     

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yunpengtai.top/posts/how_to_prompt_llms/</loc>
+    <loc>http://yunpengtai.top/posts/better-prompt/</loc>
     <lastmod>2024-05-24T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/llms/</loc>
@@ -23,10 +23,10 @@
     <loc>http://yunpengtai.top/tags/math/</loc>
     <lastmod>2023-10-25T18:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/llms_math/</loc>
+    <loc>http://yunpengtai.top/posts/llm-math/</loc>
     <lastmod>2023-10-25T18:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/efficient_tricks_for_llms/</loc>
+    <loc>http://yunpengtai.top/posts/efficient-tricks-for-llms/</loc>
     <lastmod>2023-10-13T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/training/</loc>
@@ -38,31 +38,31 @@
     <loc>http://yunpengtai.top/posts/infonce/</loc>
     <lastmod>2023-07-14T18:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/nce_friends/</loc>
+    <loc>http://yunpengtai.top/posts/nce-friends/</loc>
     <lastmod>2023-07-08T09:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/numerical_stability/</loc>
+    <loc>http://yunpengtai.top/posts/numerical-stability/</loc>
     <lastmod>2023-06-25T21:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/bias_variance_decomposition/</loc>
+    <loc>http://yunpengtai.top/posts/bias-variance-decomposition/</loc>
     <lastmod>2023-06-21T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/posts/noise-contrastive-estimation/</loc>
     <lastmod>2023-05-29T10:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/fast_greedy_map_inference_for_dpp/</loc>
+    <loc>http://yunpengtai.top/posts/fast-greedy-map-inference-for-dpp/</loc>
     <lastmod>2023-05-16T10:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/determinantal_point_process/</loc>
+    <loc>http://yunpengtai.top/posts/determinantal-point-process/</loc>
     <lastmod>2023-04-21T15:20:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/generalized_linear_models/</loc>
+    <loc>http://yunpengtai.top/posts/generalized-linear-models/</loc>
     <lastmod>2023-02-17T14:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/linear-models/</loc>
     <lastmod>2023-02-17T14:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/dive_in_distributed_training/</loc>
+    <loc>http://yunpengtai.top/posts/dive-in-distributed-training/</loc>
     <lastmod>2022-11-20T10:20:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/pytorch/</loc>
@@ -74,7 +74,7 @@
     <loc>http://yunpengtai.top/tags/back-propagation/</loc>
     <lastmod>2022-09-07T18:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/deep_back_propagation/</loc>
+    <loc>http://yunpengtai.top/posts/deep-back-propagation/</loc>
     <lastmod>2022-09-07T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/posts/tips-for-training-nn/</loc>

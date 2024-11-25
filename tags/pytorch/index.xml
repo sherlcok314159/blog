@@ -14,10 +14,10 @@
     <lastBuildDate>Sun, 20 Nov 2022 10:20:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/pytorch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diving in distributed training in PyTorch</title>
-      <link>http://yunpengtai.top/posts/dive_in_distributed_training/</link>
+      <link>http://yunpengtai.top/posts/dive-in-distributed-training/</link>
       <pubDate>Sun, 20 Nov 2022 10:20:00 +0800</pubDate>
       
-      <guid>http://yunpengtai.top/posts/dive_in_distributed_training/</guid>
+      <guid>http://yunpengtai.top/posts/dive-in-distributed-training/</guid>
       <description>鉴于网上此类教程有不少模糊不清，对原理不得其法，代码也难跑通，故而花了几天细究了一下相关原理和实现，欢迎批评指正！代码开源在此： DL-Tools Cache effective tools for deep</description>
     </item>
     
