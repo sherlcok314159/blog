@@ -2,23 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yunpengtai.top/categories/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/posts/hugo-journey/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/posts/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/%E4%B8%BB%E9%A2%98/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/categories/%E6%8A%98%E8%85%BE/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/%E8%87%AA%E5%AE%9A%E4%B9%89/</loc>
+    <lastmod>2024-12-17T22:00:00+08:00</lastmod>
+  </url><url>
     <loc>http://yunpengtai.top/posts/better-prompt/</loc>
     <lastmod>2024-05-24T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/llms/</loc>
     <lastmod>2024-05-24T18:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/posts/</loc>
-    <lastmod>2024-11-20T18:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://yunpengtai.top/tags/prompt/</loc>
     <lastmod>2024-05-24T18:10:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/tags/</loc>
-    <lastmod>2024-11-20T18:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/</loc>
-    <lastmod>2024-11-20T18:00:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/math/</loc>
     <lastmod>2023-10-25T18:10:00+08:00</lastmod>
@@ -89,20 +110,12 @@
     <loc>http://yunpengtai.top/tags/%E5%90%8D%E8%A8%80/</loc>
     <lastmod>2022-07-23T11:10:00+08:00</lastmod>
   </url><url>
-    <loc>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</loc>
-    <lastmod>2024-11-20T18:00:00+08:00</lastmod>
-  </url><url>
     <loc>http://yunpengtai.top/posts/hello-world/</loc>
-    <lastmod>2024-11-20T18:00:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</loc>
     <lastmod>2024-11-20T18:00:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/about/</loc>
   </url><url>
     <loc>http://yunpengtai.top/archives/</loc>
-  </url><url>
-    <loc>http://yunpengtai.top/categories/</loc>
   </url><url>
     <loc>http://yunpengtai.top/search/</loc>
   </url><url>

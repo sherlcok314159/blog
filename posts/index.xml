@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2024 18:10:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 22:00:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo PaperMod 主题精装修</title>
+      <link>http://yunpengtai.top/posts/hugo-journey/</link>
+      <pubDate>Tue, 17 Dec 2024 22:00:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/posts/hugo-journey/</guid>
+      <description>引子 前段时间对博客进行了整理和翻新，趁着记忆还没完全模糊，将搭建博客的细节记录下来。个人而言，对目前博客的各项功能以及美观度还是比较满意的，</description>
+    </item>
+    
     <item>
       <title>How to prompt LLM better?</title>
       <link>http://yunpengtai.top/posts/better-prompt/</link>

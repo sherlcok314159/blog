@@ -11,7 +11,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 May 2024 18:10:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 22:00:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>主题</title>
+      <link>http://yunpengtai.top/tags/%E4%B8%BB%E9%A2%98/</link>
+      <pubDate>Tue, 17 Dec 2024 22:00:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/tags/%E4%B8%BB%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>折腾</title>
+      <link>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</link>
+      <pubDate>Tue, 17 Dec 2024 22:00:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网站</title>
+      <link>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Tue, 17 Dec 2024 22:00:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>自定义</title>
+      <link>http://yunpengtai.top/tags/%E8%87%AA%E5%AE%9A%E4%B9%89/</link>
+      <pubDate>Tue, 17 Dec 2024 22:00:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/tags/%E8%87%AA%E5%AE%9A%E4%B9%89/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>llms</title>
       <link>http://yunpengtai.top/tags/llms/</link>
@@ -108,24 +144,6 @@
       <pubDate>Sat, 23 Jul 2022 11:10:00 +0800</pubDate>
       
       <guid>http://yunpengtai.top/tags/%E5%90%8D%E8%A8%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>折腾</title>
-      <link>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</link>
-      <pubDate>Sun, 19 Jun 2022 11:10:00 +0800</pubDate>
-      
-      <guid>http://yunpengtai.top/tags/%E6%8A%98%E8%85%BE/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>网站</title>
-      <link>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</link>
-      <pubDate>Sun, 19 Jun 2022 11:10:00 +0800</pubDate>
-      
-      <guid>http://yunpengtai.top/tags/%E7%BD%91%E7%AB%99/</guid>
       <description></description>
     </item>
     
