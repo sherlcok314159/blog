@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2024 22:00:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 14:38:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「网络代理」这件小事</title>
+      <link>http://yunpengtai.top/posts/know-mihomo/</link>
+      <pubDate>Sun, 29 Dec 2024 14:38:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/posts/know-mihomo/</guid>
+      <description>引子 代理，对于很多人来说并不陌生，尤其是在科研领域，例如在谷歌学术上查找论文的 BibTeX 时。然而，我们常常对网络代理的原理、功能以及如何更好地配置等</description>
+    </item>
+    
     <item>
       <title>Hugo PaperMod 主题精装修</title>
       <link>http://yunpengtai.top/posts/hugo-journey/</link>
