@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Dec 2024 14:38:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jun 2025 22:30:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muon: 控制谱范数下的最速下降</title>
+      <link>http://yunpengtai.top/posts/muon/</link>
+      <pubDate>Tue, 03 Jun 2025 22:30:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/posts/muon/</guid>
+      <description>本文将主要涵盖以下内容： 从理论角度推导 Muon 优化器，介绍其「控制谱范数下的最速下降」的特性，主要在 Bernstein 的博客 https://jeremybernste.in/writing/deriving-muon 的基础上进行延伸。值得注意的是，推导</description>
+    </item>
+    
     <item>
       <title>「网络代理」这件小事</title>
       <link>http://yunpengtai.top/posts/know-mihomo/</link>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>optimizer on Tai&#39;s Blog</title>
+    <link>http://yunpengtai.top/tags/optimizer/</link>
+    <description>Recent content in optimizer on Tai&#39;s Blog</description>
+    <image>
+      <title>Tai&#39;s Blog</title>
+      <url>http://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jun 2025 22:30:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/optimizer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Muon: 控制谱范数下的最速下降</title>
+      <link>http://yunpengtai.top/posts/muon/</link>
+      <pubDate>Tue, 03 Jun 2025 22:30:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/posts/muon/</guid>
+      <description>本文将主要涵盖以下内容： 从理论角度推导 Muon 优化器，介绍其「控制谱范数下的最速下降」的特性，主要在 Bernstein 的博客 https://jeremybernste.in/writing/deriving-muon 的基础上进行延伸。值得注意的是，推导</description>
+    </item>
+    
+  </channel>
+</rss>
