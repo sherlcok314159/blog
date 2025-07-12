@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://yunpengtai.top/posts/agentic-coding/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/agentic-coding/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/claude-code/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/posts/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/prompt/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/tags/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
+    <loc>http://yunpengtai.top/</loc>
+    <lastmod>2025-07-12T16:07:00+08:00</lastmod>
+  </url><url>
     <loc>http://yunpengtai.top/tags/adam/</loc>
     <lastmod>2025-06-03T22:30:00+08:00</lastmod>
   </url><url>
@@ -15,15 +36,6 @@
     <lastmod>2025-06-03T22:30:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/optimizer/</loc>
-    <lastmod>2025-06-03T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/posts/</loc>
-    <lastmod>2025-06-03T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/tags/</loc>
-    <lastmod>2025-06-03T22:30:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/</loc>
     <lastmod>2025-06-03T22:30:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/training/</loc>
@@ -60,9 +72,6 @@
     <lastmod>2025-01-19T20:00:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/posts/better-prompt/</loc>
-    <lastmod>2024-05-24T18:10:00+08:00</lastmod>
-  </url><url>
-    <loc>http://yunpengtai.top/tags/prompt/</loc>
     <lastmod>2024-05-24T18:10:00+08:00</lastmod>
   </url><url>
     <loc>http://yunpengtai.top/tags/math/</loc>

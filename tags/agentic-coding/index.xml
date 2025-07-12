@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>prompt on Tai&#39;s Blog</title>
-    <link>http://yunpengtai.top/tags/prompt/</link>
-    <description>Recent content in prompt on Tai&#39;s Blog</description>
+    <title>agentic-coding on Tai&#39;s Blog</title>
+    <link>http://yunpengtai.top/tags/agentic-coding/</link>
+    <description>Recent content in agentic-coding on Tai&#39;s Blog</description>
     <image>
       <title>Tai&#39;s Blog</title>
       <url>http://yunpengtai.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Jul 2025 16:07:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/prompt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 16:07:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/tags/agentic-coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agentic Coding: 当编程被按下加速键</title>
       <link>http://yunpengtai.top/posts/agentic-coding/</link>
@@ -19,15 +19,6 @@
       
       <guid>http://yunpengtai.top/posts/agentic-coding/</guid>
       <description>Cursor 刚火起来的时候自己还是比较保守的，或者说不想费事去搞，毕竟在从业者眼中 Agentic Coding 还多半是一个「半成品」的状态，因为一个半成品而消耗自己的精力，这</description>
-    </item>
-    
-    <item>
-      <title>How to prompt LLM better?</title>
-      <link>http://yunpengtai.top/posts/better-prompt/</link>
-      <pubDate>Fri, 24 May 2024 18:10:00 +0800</pubDate>
-      
-      <guid>http://yunpengtai.top/posts/better-prompt/</guid>
-      <description>prompt 在人与 LLM 的互动中起着关键的作用，好的 prompt 可以让 LLM「思考」更多一些，那么如何更好地理解 prompt 的组成，以及设计 prompt 来完成想要的任务便成了主要的目标</description>
     </item>
     
   </channel>

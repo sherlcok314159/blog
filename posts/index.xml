@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jun 2025 22:30:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jul 2025 16:07:00 +0800</lastBuildDate><atom:link href="http://yunpengtai.top/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agentic Coding: 当编程被按下加速键</title>
+      <link>http://yunpengtai.top/posts/agentic-coding/</link>
+      <pubDate>Sat, 12 Jul 2025 16:07:00 +0800</pubDate>
+      
+      <guid>http://yunpengtai.top/posts/agentic-coding/</guid>
+      <description>Cursor 刚火起来的时候自己还是比较保守的，或者说不想费事去搞，毕竟在从业者眼中 Agentic Coding 还多半是一个「半成品」的状态，因为一个半成品而消耗自己的精力，这</description>
+    </item>
+    
     <item>
       <title>Muon: 控制谱范数下的最速下降</title>
       <link>http://yunpengtai.top/posts/muon/</link>
